@@ -1,0 +1,25 @@
+{
+  "name": "task4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morevtrue/LadTasks.git"
+  },
+  "keywords": [
+    "start"
+  ],
+  "author": "morevtrue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morevtrue/LadTasks/issues"
+  },
+  "homepage": "https://github.com/morevtrue/LadTasks#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
